@@ -9,3 +9,17 @@ print(List[-1])
       
 # print the third last element of list
 print(List[-3])
+<<<<<<< HEAD
+=======
+
+
+List2 = [10, 20, 14]
+print(len(List2))
+
+
+string = input("Enter elements (Space-Separated): ")
+  
+# split the strings and store it to a list
+lst = string.split()  
+print('The list is:', lst)  
+>>>>>>> ecfd505 (list.py updated)
